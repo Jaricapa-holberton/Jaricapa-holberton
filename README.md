@@ -1,5 +1,6 @@
 # Hi there!
-[![](https://img.shields.io/badge/LinkedIn-Jaime_Andrés_Aricapa_Pérez)](https://www.linkedin.com/in/jaime-aricapa/)
+[![](https://img.shields.io/badge/LinkedIn-Jaime Andrés Aricapa Pérez-blue)](https://www.linkedin.com/in/jaime-aricapa/)
+[![](https://img.shields.io/badge/Gmail-ja95aricapa-red)](mailto:ja95aricapa@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-Jaime_Aricapa)](https://www.hackerrank.com/h2241)
 
 ## About Me:
