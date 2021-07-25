@@ -10,7 +10,6 @@
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
 
-</br></br>
 <h2>💻 Some stats 💻</h2>
 
 ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaricapa-holberton)]
