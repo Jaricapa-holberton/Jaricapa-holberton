@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Jaime_Andrés_Aricapa_Pérez)](https://www.linkedin.com/in/jaime-aricapa/)
 [![](https://img.shields.io/badge/HackerRank-Jaime_Aricapa)](https://www.hackerrank.com/h2241)
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+![](https://github.com/Jaricapa-holberton/Jaricapa-holberton/blob/main/carbon.png)
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
 
