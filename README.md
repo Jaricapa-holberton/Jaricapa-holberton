@@ -7,7 +7,14 @@
 https://carbon.now.sh/ -->
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+<p><em>Software developer in training at Holberton School and Market Researcher. 😊</br>
+</em></p>
+
+</br></br>
+<h2>💻 Some stats 💻</h2>
+
+![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaricapa-holberton)](https://github.com/Jaricapa-holberton/github-readme-stats)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
