@@ -13,6 +13,7 @@ https://carbon.now.sh/ -->
 <h2>💻 Some stats 💻</h2>
 
 ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaricapa-holberton)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaricapa-holberton)]
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
