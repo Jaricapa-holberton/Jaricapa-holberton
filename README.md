@@ -1,7 +1,7 @@
 # Hi there!
-[![](https://img.shields.io/badge/LinkedIn-Jaime Andrés Aricapa Pérez-blue)](https://www.linkedin.com/in/jaime-aricapa/)
+[![](https://img.shields.io/badge/LinkedIn-Jaime_Andrés_Aricapa_Pérez-blue)](https://www.linkedin.com/in/jaime-aricapa/)
 [![](https://img.shields.io/badge/Gmail-ja95aricapa-red)](mailto:ja95aricapa@gmail.com)
-[![](https://img.shields.io/badge/HackerRank-Jaime Aricapa-brightgreen)](https://www.hackerrank.com/h2241)
+[![](https://img.shields.io/badge/HackerRank-Jaime_Aricapa-brightgreen)](https://www.hackerrank.com/h2241)
 
 ## About Me:
 <p><em>Software developer in training at Holberton School and Market Researcher. 😊</br>
