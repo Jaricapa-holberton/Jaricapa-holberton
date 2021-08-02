@@ -19,7 +19,7 @@ https://carbon.now.sh/ -->
 
 ![Code Inspector stats](https://code-inspector.com/public/badge/user/github/Jaricapa-holberton)
 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)(https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 ---
 
