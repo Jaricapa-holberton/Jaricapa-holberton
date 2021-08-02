@@ -15,7 +15,7 @@ https://carbon.now.sh/ -->
 
 ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaricapa-holberton)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaricapa-holberton)]
-![Code Inspector stats](https://frontend.code-inspector.com/public/user/github/Jaricapa-holberton)]
+![Code Inspector stats](https://code-inspector.com/public/badge/user/github/Jaricapa-holberton?)]
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
