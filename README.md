@@ -4,7 +4,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Jaime_Aricapa-brightgreen)](https://www.hackerrank.com/h2241)
 
 ## About Me:
-<p><em>Software developer in training at Holberton School and Market Researcher. 🔍👨🏻‍💻</br>
+<p><em>Software developer in training at Holberton School and Market Researcher. 💻📈🔍</br>
 </em></p>
 
 ![](https://github.com/Jaricapa-holberton/Jaricapa-holberton/blob/main/carbon.png)
