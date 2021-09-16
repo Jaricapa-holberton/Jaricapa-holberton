@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-ja95aricapa-red)](mailto:ja95aricapa@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Jaime_Aricapa-brightgreen)](https://www.hackerrank.com/h2241)
 [![Medium](https://img.shields.io/badge/Medium-Jaime_Aricapa-green)](https://jaime95aricapa.medium.com)
-[![GoodCommerce](https://img.shields.io/badge/Medium-Jaime_Aricapa-purple)](https://blog.goodcommerce.io/author/jaime/)
+[![GoodCommerce](https://img.shields.io/badge/Goodcommerce-Jaime_Aricapa-purple)](https://blog.goodcommerce.io/author/jaime/)
 
 ## About Me:
 <p><em>Software developer in training at Holberton School and Market Researcher. 💻📈🔍</br>
